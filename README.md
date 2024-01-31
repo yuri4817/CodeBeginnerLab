@@ -1,2 +1,5 @@
 # CodeBeginnerLab
 This repository is history to study fundamental of computer science
+
+このプロジェクトはコンピュータ・サイエンスの基本を学習するためのプロセスを記録したリポジトリです。
+私はCGを主にした制作物を中心に活動しているが、根本的なコンピュータ・サイエンスの知識不足によって理解に困ることが多いので基本に立ち返ることで、全体のスキルの土台を作ることを目的とする。
